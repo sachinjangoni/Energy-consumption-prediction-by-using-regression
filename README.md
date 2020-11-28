@@ -2,8 +2,8 @@
 Applied all Regression techniques and evaluated one algorithm based on model performance.
 
 
-Multi Linear Regression
-Polynomial Regression
-Decision Tress
-Support Vector Regression(SVR)
-Random Forest
+Multi Linear Regression,
+Polynomial Regression,
+Decision Tress,
+Support Vector Regression(SVR),
+Random Forest.
